@@ -1,0 +1,676 @@
+### VarEdit by Intercross21: /datum/controller/gameticker login_music=sound/music/US radiochatter.ogg
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Silentium (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Silentium (/mob/new_player): Stat()
+Silentium (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Firefroge (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Firefroge (/mob/new_player): Stat()
+Firefroge (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Bishehlop (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Bishehlop (/mob/new_player): Stat()
+Bishehlop (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: SKAT1990 (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+SKAT1990 (/mob/new_player): Stat()
+SKAT1990 (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: SpaeroAl (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+SpaeroAl (/mob/new_player): Stat()
+SpaeroAl (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Recei (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Recei (/mob/new_player): Stat()
+Recei (/client): Stat()            ## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x2018c6e] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c66] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x203f8fb] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c6a] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c68] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Tatiana Radanovic (/mob/dead/observer)
+  src.loc: the grass (169,160,1) (/turf/simulated/floor/plating/grass)
+  call stack:
+Tatiana Radanovic (/mob/dead/observer): Stat()
+Stat()
+runtime error: undefined variable /turf/simulated/floor/plating/road/var/client
+proc name: Targeted (/mob/living/proc/Targeted)
+  source file: targeting.dm,189
+  usr: Alexander Tverdov (/mob/living/carbon/human)
+  src: Igor Vaskin (/mob/living/carbon/human)
+  usr.loc: the road (145,184,1) (/turf/simulated/floor/plating/road)
+  src.loc: the road (146,183,1) (/turf/simulated/floor/plating/road)
+  call stack:
+Igor Vaskin (/mob/living/carbon/human): Targeted(KORD (/obj/item/weapon/gun/projectile/minigun/kord))
+KORD (/obj/item/weapon/gun/projectile/minigun/kord): Aim(Igor Vaskin (/mob/living/carbon/human))
+KORD (/obj/item/weapon/gun/projectile/minigun/kord): PreFire(the road (145,180,1) (/turf/simulated/floor/plating/road), Alexander Tverdov (/mob/living/carbon/human), "icon-x=10;icon-y=17;left=1;scr...")
+KORD (/obj/item/weapon/gun/projectile/minigun/kord): afterattack(the road (145,180,1) (/turf/simulated/floor/plating/road), Alexander Tverdov (/mob/living/carbon/human), 0, "icon-x=10;icon-y=17;left=1;scr...")
+KORD (/obj/item/weapon/gun/projectile/minigun/kord): afterattack(the road (145,180,1) (/turf/simulated/floor/plating/road), Alexander Tverdov (/mob/living/carbon/human), 0, "icon-x=10;icon-y=17;left=1;scr...")
+KORD (/obj/item/weapon/gun/projectile/minigun/kord): usedby(Alexander Tverdov (/mob/living/carbon/human), the road (145,180,1) (/turf/simulated/floor/plating/road), "icon-x=10;icon-y=17;left=1;scr...")
+Alexander Tverdov (/mob/living/carbon/human): using object(the road (145,180,1) (/turf/simulated/floor/plating/road), "icon-x=10;icon-y=17;left=1;scr...")
+Alexander Tverdov (/mob/living/carbon/human): ClickOn(the road (145,180,1) (/turf/simulated/floor/plating/road), "icon-x=10;icon-y=17;left=1;scr...")
+the road (145,180,1) (/turf/simulated/floor/plating/road): Click(the road (145,180,1) (/turf/simulated/floor/plating/road), "mapwindow.map", "icon-x=10;icon-y=17;left=1;scr...")
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x203f7a7] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007aec] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2040018] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018cd6] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Andrey Gribabasov (/mob/dead/observer)
+  src.loc: the floor (211,208,1) (/turf/simulated/floor)
+  call stack:
+Andrey Gribabasov (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x2018cca] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018cd0] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018cd4] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c88] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007aed] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c8c] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c90] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c86] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f71c] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f71e] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007b09] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f929] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fc05] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x2002ff9] | /obj/item/projectile/bullet/rifle/a762 was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f385] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007133] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c90] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006565] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016b41] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20054e9] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007c6d] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20054e5] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006d50] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006585] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006d4e] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006583] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x200658d] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20054e1] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20054e3] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x200657f] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20054df] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006d4a] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006581] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006571] | /obj/item/projectile/bullet/rifle/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2006d48] | /obj/item/ammo_casing/a556p was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016b3f] | /obj/item/ammo_magazine/a556/practice was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018312] | /obj/item/weapon/grab was unable to be GC'd and was deleted --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Adam Miloradovich (/mob/dead/observer)
+  src.loc: the sand (144,189,1) (/turf/simulated/floor/plating/asteroid)
+  call stack:
+Adam Miloradovich (/mob/dead/observer): Stat()
+Stat()
+Running revision:
+master
+2016-02-14
+8b8eefc024eec5f8f46ddafb432024a5b3a978c1
+## ERROR: File not found (data/mode.txt)
+
+Your server failed to establish a connection with the feedback database.
+
+Your server failed to establish a connection with the SQL database.
+
+
+
+
+
+BYOND Error: failed to certify Kollruntime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Firefroge (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Firefroge (/mob/new_player): Stat()
+Firefroge (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Corporal dead (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Corporal dead (/mob/new_player): Stat()
+Corporal dead (/client): Stat()
+Sun Feb 14 19:40:07 2016
+## TESTING: GC: -- [0x2007ab1] | /obj/structure/table/reinforced was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20014d9] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fcbc] | /obj/item/stack/material/steel was unable to be GC'd and was deleted --
+### VarEdit by Intercross21: /obj/item/clothing/suit/chickensuit canremove=0
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Greg House (/mob/dead/observer)
+  src.loc: the floor (148,172,1) (/turf/simulated/floor)
+  call stack:
+Greg House (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x203f6f6] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Andrey Konokradov (/mob/dead/observer)
+  src.loc: the grass (149,196,1) (/turf/simulated/floor/plating/grass)
+  call stack:
+Andrey Konokradov (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x2016c2b] | /obj/item/stack/material/steel was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f664] | /obj/item/organ/external/foot was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f660] | /obj/item/organ/external/leg was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f665] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f661] | /obj/item/organ/external/leg/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f668] | /obj/item/organ/liver was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f669] | /obj/item/organ/kidneys was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f66b] | /obj/item/organ/appendix was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f582] | /obj/item/organ/external/groin was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f66a] | /obj/item/organ/brain was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f66c] | /obj/item/organ/eyes was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f584] | /obj/item/organ/external/head was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f662] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f583] | /obj/item/organ/external/arm was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f663] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f65f] | /obj/item/organ/external/arm/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f666] | /obj/item/organ/heart was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f667] | /obj/item/organ/lungs was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f619] | /obj/item/organ/external/chest was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016530] | /obj/item/organ/external/foot was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016c2d] | /obj/item/organ/external/leg was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016c29] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20011db] | /obj/item/organ/external/leg/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016c21] | /obj/item/organ/liver was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x20164f6] | /obj/item/organ/kidneys was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2005b2a] | /obj/item/organ/appendix was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2001113] | /obj/item/organ/external/groin was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2000fa5] | /obj/item/organ/brain was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2005b34] | /obj/item/organ/eyes was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2005b32] | /obj/item/organ/external/head was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016925] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2000ba8] | /obj/item/organ/external/arm was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fd09] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016927] | /obj/item/organ/external/arm/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2005b3c] | /obj/item/organ/heart was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2016c25] | /obj/item/organ/lungs was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2005b12] | /obj/item/organ/external/chest was unable to be GC'd and was deleted --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Greg House (/mob/dead/observer)
+  src.loc: the road (153,166,1) (/turf/simulated/floor/plating/road)
+  call stack:
+Greg House (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x203f90d] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c72] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73e] | /obj/item/organ/external/foot was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73a] | /obj/item/organ/external/leg was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73f] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73b] | /obj/item/organ/external/leg/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f742] | /obj/item/organ/liver was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f743] | /obj/item/organ/kidneys was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f745] | /obj/item/organ/appendix was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f736] | /obj/item/organ/external/groin was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f744] | /obj/item/organ/brain was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f746] | /obj/item/organ/eyes was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f737] | /obj/item/organ/external/head was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73c] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f738] | /obj/item/organ/external/arm was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f73d] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f739] | /obj/item/organ/external/arm/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f740] | /obj/item/organ/heart was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f741] | /obj/item/organ/lungs was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f733] | /obj/item/organ/external/chest was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c7e] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c76] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2018c7c] | /obj/item/projectile/grenade/he was unable to be GC'd and was deleted --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x203f783] | /obj/item/organ/external/foot was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007a95] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f4be] | /obj/item/organ/external/foot/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x2007a96] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fe6d] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fe6e] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+Running revision:
+master
+2016-02-14
+8b8eefc024eec5f8f46ddafb432024a5b3a978c1
+## ERROR: File not found (data/mode.txt)
+
+Your server failed to establish a connection with the feedback database.
+
+Your server failed to establish a connection with the SQL database.
+BUG: Failed to decode message 2,12
+BUG: Network connection for Corporal dead shutting down due to read error. (1,1)
+
+
+
+
+
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Martin Kripto (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Martin Kripto (/mob/new_player): Stat()
+Martin Kripto (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Firefroge (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+Firefroge (/mob/new_player): Stat()
+Firefroge (/client): Stat()
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: 1CogwheeL1 (/mob/new_player)
+  src.loc: the rock (8,8,1) (/turf/unsimulated/wall)
+  call stack:
+1CogwheeL1 (/mob/new_player): Stat()
+1CogwheeL1 (/client): Stat()
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- [0x204027e] | /obj/item/stack/material/steel was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f13c] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- [0x2019812] | /obj/item/clothing/accessory/armband was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f78c] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+runtime error: Cannot modify null.eye.
+proc name: shake camera (/proc/shake_camera)
+  source file: mob_helpers.dm,428
+  usr: Ricky Daytona (/mob/living/carbon/human)
+  src: null
+  usr.loc: the sand (158,166,1) (/turf/simulated/floor/plating/asteroid)
+  call stack:
+shake camera(Ricky Daytona (/mob/living/carbon/human), 2, 1)
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Ricky Daytona (/mob/dead/observer)
+  src.loc: the road (144,162,1) (/turf/simulated/floor/plating/road)
+  call stack:
+Ricky Daytona (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x203f4b2] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+## TESTING: GC: -- /mob was deleted via del() rather than qdel() --
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/dead/observer/Stat)
+  source file: observer.dm,192
+  usr: (src)
+  src: Jeremiah Williamson (/mob/dead/observer)
+  src.loc: the floor (201,221,1) (/turf/simulated/floor)
+  call stack:
+Jeremiah Williamson (/mob/dead/observer): Stat()
+Stat()
+## TESTING: GC: -- [0x203fd88] | /obj/item/weapon/grenade/smokebomb was unable to be GC'd and was deleted --
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## WARNING: qdel() passed object of type /list. qdel() can only handle /datum types.
+## TESTING: GC: -- [0x203fb5e] | /obj/item/organ/external/hand was unable to be GC'd and was deleted --
+runtime error: Cannot read null.stat
+proc name: examine (/mob/living/carbon/human/examine)
+  source file: examine.dm,244
+  usr: null
+  src: Vasiliy Kolokolchikov (/mob/living/carbon/human)
+  src.loc: the floor (150,140,1) (/turf/simulated/floor)
+  call stack:
+Vasiliy Kolokolchikov (/mob/living/carbon/human): examine(null)
+## TESTING: GC: -- [0x203fb5a] | /obj/item/organ/external/arm was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fda7] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fda6] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (143,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=14;icon-y=15;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (143,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=14;icon-y=15;left=1;scr...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (143,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=14;icon-y=15;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (143,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=14;icon-y=15;left=1;scr...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=20;icon-y=18;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=20;icon-y=18;left=1;scr...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=20;icon-y=18;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=20;icon-y=18;left=1;scr...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=18;icon-y=10;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=18;icon-y=10;left=1;scr...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=18;icon-y=10;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=18;icon-y=10;left=1;scr...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=13;icon-y=7;left=1;scre...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=13;icon-y=7;left=1;scre...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=13;icon-y=7;left=1;scre...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=13;icon-y=7;left=1;scre...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=21;icon-y=19;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=21;icon-y=19;left=1;scr...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (142,216,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=21;icon-y=19;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (142,216,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=21;icon-y=19;left=1;scr...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (143,214,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=16;icon-y=13;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (143,214,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=16;icon-y=13;left=1;scr...")
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+  usr.loc: the grass (143,214,1) (/turf/simulated/floor/plating/grass)
+  src.loc: Anton Davlov (/mob/living/carbon/human)
+  call stack:
+the roll of bint (/obj/item/stack/medical/bruise_pack/bint): attack(Anton Davlov (/mob/living/carbon/human), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): attackby(the roll of bint (/obj/item/stack/medical/bruise_pack/bint), Anton Davlov (/mob/living/carbon/human))
+Anton Davlov (/mob/living/carbon/human): ClickOn(Anton Davlov (/mob/living/carbon/human), "icon-x=16;icon-y=13;left=1;scr...")
+Anton Davlov (/mob/living/carbon/human): Click(the grass (143,214,1) (/turf/simulated/floor/plating/grass), "mapwindow.map", "icon-x=16;icon-y=13;left=1;scr...")
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+## TESTING: GC: -- [0x203f7aa] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203f7ab] | /obj/item/weapon/plastique was unable to be GC'd and was deleted --
+## TESTING: GC: -- [0x203fbe9] | /obj/item/organ/external/hand/right was unable to be GC'd and was deleted --
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67

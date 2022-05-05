@@ -1,0 +1,50 @@
+<!-- 
+Title: Cyber Modules Controller
+Used In File(s): /code/modules/cyber/brainchip.dm
+ -->
+ 
+<div>
+	Some text.
+</div>
+<div>
+	Just to make sure everything is ok.
+</div>
+
+{{for data.modules}}
+	<div class='inlineBlock'>
+		<div class='paddedBorderBlue floatLeft' style='width: 420px'>
+			<div class='boldText'>
+				{{:value.name}}
+			</div>
+			<div>
+				Damage: {{:value.damage}}
+			</div>
+			<div>
+				{{if value.activate}}
+					<div class='inlineBlock'>
+						{{:helper.link(value.activate, 'circle-arrow-s', {'module_index' : value.index, 'act' : 'activate'})}}
+					</div>
+				{{else value.deactivate}}
+					<div class='inlineBlock'>
+						{{:helper.link(value.deactivate, 'circle-arrow-s', {'module_index' : value.index, 'act' : 'deactivate'})}}
+					</div>
+				{{/if}}
+				{{if value.use}}
+					<div class='inlineBlock'>
+						{{:helper.link(value.use, 'circle-arrow-s', {'module_index' : value.index, 'act' : 'use'})}}
+					</div>
+				{{/if}}
+				{{if value.load}}
+					<div class='inlineBlock'>
+						{{:helper.link(value.load, 'circle-arrow-s', {'module_index' : value.index, 'act' : 'load'})}}
+					</div>
+				{{/if}}
+				{{if value.unload}}
+					<div class='inlineBlock'>
+						{{:helper.link(value.unload, 'circle-arrow-s', {'module_index' : value.index, 'act' : 'unload'})}}
+					</div>
+				{{/if}}
+			</div>
+		</div>
+	</div>
+{{/for}}

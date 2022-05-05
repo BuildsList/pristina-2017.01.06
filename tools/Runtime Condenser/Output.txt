@@ -1,0 +1,61 @@
+Note: The proc name, source file, src and usr are all from the FIRST of the identical runtimes. Everything else is cropped.
+
+Total unique runtimes: 7
+Total runtimes: 42
+
+** Runtimes **
+
+The following runtime has occured 18 time(s).
+runtime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Silentium (/mob/new_player)
+
+
+The following runtime has occured 10 time(s).
+runtime error: Cannot read null.name
+proc name: attack (/obj/item/stack/medical/attack)
+  source file: medical.dm,27
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+
+
+The following runtime has occured 10 time(s).
+runtime error: Cannot read null.open
+proc name: attack (/obj/item/stack/medical/bruise_pack/attack)
+  source file: medical.dm,67
+  usr: Anton Davlov (/mob/living/carbon/human)
+  src: the roll of bint (/obj/item/stack/medical/bruise_pack/bint)
+
+
+The following runtime has occured 1 time(s).
+runtime error: undefined variable /turf/simulated/floor/plating/road/var/client
+proc name: Targeted (/mob/living/proc/Targeted)
+  source file: targeting.dm,189
+  usr: Alexander Tverdov (/mob/living/carbon/human)
+  src: Igor Vaskin (/mob/living/carbon/human)
+
+
+The following runtime has occured 1 time(s).
+BYOND Error: failed to certify Kollruntime error: Cannot read null.statpanel
+proc name: Stat (/mob/new_player/Stat)
+  source file: new_player.dm,72
+  usr: (src)
+  src: Firefroge (/mob/new_player)
+
+
+The following runtime has occured 1 time(s).
+runtime error: Cannot modify null.eye.
+proc name: shake camera (/proc/shake_camera)
+  source file: mob_helpers.dm,428
+  usr: Ricky Daytona (/mob/living/carbon/human)
+  src: null
+
+
+The following runtime has occured 1 time(s).
+runtime error: Cannot read null.stat
+proc name: examine (/mob/living/carbon/human/examine)
+  source file: examine.dm,244
+  usr: null
+  src: Vasiliy Kolokolchikov (/mob/living/carbon/human)
